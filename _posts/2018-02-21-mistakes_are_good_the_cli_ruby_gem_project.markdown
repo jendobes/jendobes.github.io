@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Mistakes are good: the CLI Ruby Gem Project"
-date:       2018-02-21 19:15:15 +0000
+date:       2018-02-21 14:15:16 -0500
 permalink:  mistakes_are_good_the_cli_ruby_gem_project
 ---
 
 
-Daily Phrases ruby gem: my first coding project that is 100% really truly mine. I love it and it is my baby. And just like an infant it drove me insane and I sometimes secretly wished I hadn’t created it in the first place. 
+Daily Phrases ruby gem: my first coding project that is 100% really truly mine. I love it even though it drove me absolutely insane for 72 hours.
 
 My gem scrapes web pages to provide a daily phrase in 15 different languages along with an English translation. This seemed simple enough, and in the beginning it was. I spent two blissful days writing the structure and CLI of my gem, using stubs as the output. I was feeling confident and accomplished right up to building my scraper method. Then I was just flat out angry. NOTHING worked. 
 
@@ -32,3 +32,6 @@ I understand more about the mechanics of gems and web code than I ever would hav
     translation_scrape = doc.css("p.js-wotd-enphrase").text
     browser.driver.quit
 ```
+
+
+
