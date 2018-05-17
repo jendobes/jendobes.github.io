@@ -33,7 +33,7 @@ Since I didn't want to spend a lot of time styling my website, I wanted to add f
 
 First, I found some images to use as clickable links on my homepage to navigate to the most important parts of my website. I also found an image for the 'login with facebook' link that made my website feel more legitimate. 
 
-![Imgur](https://imgur.com/GQcvF8i.png)
+![Imgur](https://i.imgur.com/GQcvF8i.png)
 
 The majority of my styling was done in view/layouts/application.html.erb, since this file affects all the views of my app. To give my content some margin and have it centered correctly, I added in the following div between the body elements: 
 
