@@ -54,7 +54,7 @@ Next, I added the class "nav-wrapper" to my navbar div, which created the below 
 <div class ="nav-wrapper teal lighten-4"
 ```
 
-![](https://imgur.com/fyKbuES)
+![Imgur](https://i.imgur.com/fyKbuES.png)
 
 To finish off the navbar, I created a clickable logo that would take the user back to the homepage
 ```
@@ -65,7 +65,7 @@ To finish off the navbar, I created a clickable logo that would take the user ba
 </nav>
 ```
 
-![](https://imgur.com/LlDR3CP)
+![Imgur](https://i.imgur.com/LlDR3CP.png)
 
 Already my homepage has some swag!
 
@@ -93,7 +93,7 @@ Cards are basically a wrapper for small bits of information and can include an i
 </div>
 ```
 
-![](https://imgur.com/JE5MGlf)
+![Imgur](https://i.imgur.com/JE5MGlf.png)
 
 ## Styling forms
 By default, materialize styles forms pretty nicely, however I was really frustrated to fidn that I couldn't click my buttons correctly once materialize was downloaded. 
@@ -120,7 +120,7 @@ To keep your forms working correctly, you MUST put label_tags AFTER the helper t
 ```
 
 I replaced the default form_tag button with the html button tag shown in the above code, which gave me a nicely styled button.
-![](https://imgur.com/cDsAxXx)
+![Imgur](https://i.imgur.com/cDsAxXx.png)
 
 
 Overall Materialize is a great tool for beginners since it is not only quick and easy to use, but also is very unintrusive to the existing code -- you are basically only adding in classes to HTML elements that already exist in your code. 
