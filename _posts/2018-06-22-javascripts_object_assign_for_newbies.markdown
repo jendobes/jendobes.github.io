@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JavaScript's Object.assign() for newbies"
-date:       2018-06-22 18:04:32 +0000
+date:       2018-06-22 14:04:32 -0400
 permalink:  javascripts_object_assign_for_newbies
 ---
 
